@@ -581,8 +581,8 @@ export default class UI extends Module {
       }
     }
 
-    event.stopImmediatePropagation();
-    event.stopPropagation();
+    // event.stopImmediatePropagation();
+    // event.stopPropagation();
 
     /**
      * Move and open toolbar
